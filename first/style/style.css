@@ -1,0 +1,9 @@
+body{
+	background-color: rgb(234, 245, 245);
+}
+hr{
+	width: 350px;
+    font-size: large;
+	border-style: none;
+	border-top: dotted;
+}
